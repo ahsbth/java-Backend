@@ -2,7 +2,7 @@ package classandobjects;
 
  class First {
     String acc_name;
-	protected String account_no;
+    String account_no;
 	long ac_balance;
 	String account_type;
 	
